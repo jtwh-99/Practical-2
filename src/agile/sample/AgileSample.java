@@ -11,11 +11,9 @@ package agile.sample;
  */
 public class AgileSample {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        system.out.printf("Hello World");
     }
     
 }
