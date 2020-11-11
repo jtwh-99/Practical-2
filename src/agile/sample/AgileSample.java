@@ -13,7 +13,8 @@ public class AgileSample {
 
     
     public static void main(String[] args) {
-        system.out.printf("Hello World");
+        System.out.printf("Hello World");
+        System.out.print("Good bye World");
     }
     
 }
